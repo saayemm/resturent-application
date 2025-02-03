@@ -12,8 +12,8 @@ const Navbar = () => {
         </div>
         <div className='text-white flex gap-8'>
             <Link to='/'>Home</Link>
-            <Link to='/'>About</Link>
             <Link to='/menu'>Our Menu</Link>
+            <Link to='/order'>Order Food</Link>
             <Link to='/'>Contact</Link>
             <Link to='/'>Dashboard</Link>
         </div>
